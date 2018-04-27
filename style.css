@@ -1,5 +1,20 @@
 div {
+<<<<<<< HEAD
 	width: 400px;
 	height: 400px;
 	background-color: lightblue;
+=======
+	display: inline-block;
+	width: 17%;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+img {
+	width: 200px;
+	height: 200px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 20px;
+>>>>>>> dc3287ec04868a9e63ad4a76a0cabf72ecc28ce1
 }
