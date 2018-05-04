@@ -2,8 +2,4 @@ div {
 	width: 400px;
 	height: 400px;
 	background-color: lightblue;
-	display: inline-block;
-	width: 17%;
-	padding-top: 20px;
-	padding-left: 20px;
 }
